@@ -1,7 +1,7 @@
 # Workflow Peminjaman Barang (ANTLR & Python)
 
 ## Deskripsi Proyek
-Proyek ini merupakan sistem workflow peminjaman barang berbasis **Domain Specific Language (DSL)** yang dikembangkan menggunakan **ANTLR** dan **Python**. Sistem dirancang untuk memudahkan pengguna non-teknis dalam melakukan pencatatan peminjaman barang melalui antarmuka terminal interaktif (wizard), tanpa perlu memahami sintaks DSL secara langsung.
+Proyek ini merupakan sistem workflow peminjaman barang berbasis **Domain Specific Language (DSL)** yang dikembangkan menggunakan **ANTLR** dan **Python**. Sistem dirancang untuk memudahkan pengguna non-teknis dalam melakukan pencatatan peminjaman barang melalui antarmuka terminal interaktif, tanpa perlu memahami sintaks DSL secara langsung.
 
 ---
 
